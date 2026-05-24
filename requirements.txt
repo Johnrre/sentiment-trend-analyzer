@@ -1,0 +1,11 @@
+transformers==4.38
+datasets==2.18
+torch==2.1
+evidently==0.4
+streamlit==1.32
+praw==7.7
+pillow==10.0
+sentence-transformers==2.6
+scikit-learn==1.4
+pandas==2.2
+wandb==0.16
