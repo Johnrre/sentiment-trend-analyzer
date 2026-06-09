@@ -1,3 +1,6 @@
 data/
 trend-analyzer-environment/
+wandb/
+models/debug_zero_shot.py
+models/image.png
 __pycache__/
