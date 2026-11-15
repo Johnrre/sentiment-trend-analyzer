@@ -3,4 +3,7 @@ trend-analyzer-environment/
 wandb/
 models/debug_zero_shot.py
 models/image.png
+monitoring/debug_drift.py
+monitoring/reports/
+monitoring/drift_summary.json
 __pycache__/
